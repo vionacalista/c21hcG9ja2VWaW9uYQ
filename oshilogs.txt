@@ -12,72 +12,68 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Viona =====
-[1]Viona       |05:58:26 | 19-10-2026| login OK @vionaacalista | score=1440 rank=4723
-[1]Viona       |05:58:26 | 19-10-2026| serverTime=2026-10-19T05:58:26.000Z local=2026-10-19T05:58:26.825Z
+[1]Viona       |05:52:18 | 20-10-2026| login OK @vionaacalista | score=1500 rank=4705
+[1]Viona       |05:52:18 | 20-10-2026| serverTime=2026-10-20T05:52:18.000Z local=2026-10-20T05:52:18.103Z
 --> [1]Viona menjalankan: Claim Daily
-[1]Viona       |05:58:28 | 19-10-2026| daily: OK +10 poin score=1450
---> [1]Viona menjalankan: Auto All Tasks (5 pending)
-[1]Viona       |05:58:31 | 19-10-2026| [1/5] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/vionaacalista/status/2112060427025453474
-[1]Viona       |05:58:31 | 19-10-2026| delay 10s...
-[1]Viona       |05:58:45 | 19-10-2026| [2/5] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/vionaacalista/status/2112060573213179569
-[1]Viona       |05:58:45 | 19-10-2026| delay 10s...
-[1]Viona       |05:58:59 | 19-10-2026| [3/5] de7bf305 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/vionaacalista/status/2112060356617509929
-[1]Viona       |05:58:59 | 19-10-2026| delay 10s...
-[1]Viona       |05:59:12 | 19-10-2026| [4/5] f2efc21b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/vionaacalista/status/2112060421592039643
-[1]Viona       |05:59:12 | 19-10-2026| delay 10s...
-[1]Viona       |05:59:25 | 19-10-2026| [5/5] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/vionaacalista/status/2112060610493344740
-[1]Viona       |05:59:25 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Viona       |05:59:28 | 19-10-2026| [1/1] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111998437793382 | proof=https://x.com/vionaacalista/status/2112060434137733155
+[1]Viona       |05:52:19 | 20-10-2026| daily: OK +10 poin score=1510
+--> [1]Viona menjalankan: Auto All Tasks (11 pending)
+[1]Viona       |05:52:21 | 20-10-2026| [1/11] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/vionaacalista/status/2112421072894380307
+[1]Viona       |05:52:21 | 20-10-2026| delay 10s...
+[1]Viona       |05:52:35 | 20-10-2026| [2/11] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/vionaacalista/status/2112421091297042100
+[1]Viona       |05:52:35 | 20-10-2026| delay 10s...
+[1]Viona       |05:52:47 | 20-10-2026| [3/11] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/vionaacalista/status/2112421230771483212
+[1]Viona       |05:52:47 | 20-10-2026| delay 10s...
+[1]Viona       |05:52:59 | 20-10-2026| [4/11] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/vionaacalista/status/2112421428773253415
+[1]Viona       |05:52:59 | 20-10-2026| delay 10s...
+[1]Viona       |05:53:11 | 20-10-2026| [5/11] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/vionaacalista/status/2112421269572746680
+[1]Viona       |05:53:11 | 20-10-2026| delay 10s...
+[1]Viona       |05:53:23 | 20-10-2026| [6/11] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/vionaacalista/status/2112421535127540807
+[1]Viona       |05:53:23 | 20-10-2026| delay 10s...
+[1]Viona       |05:53:35 | 20-10-2026| [7/11] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/vionaacalista/status/2112421607122684937
+[1]Viona       |05:53:35 | 20-10-2026| delay 10s...
+[1]Viona       |05:53:48 | 20-10-2026| [8/11] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/vionaacalista/status/2112421494120311330
+[1]Viona       |05:53:48 | 20-10-2026| delay 10s...
+[1]Viona       |05:54:01 | 20-10-2026| [9/11] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/vionaacalista/status/2112421778941330633
+[1]Viona       |05:54:01 | 20-10-2026| delay 10s...
+[1]Viona       |05:54:13 | 20-10-2026| [10/11] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/vionaacalista/status/2112421566056822691
+[1]Viona       |05:54:13 | 20-10-2026| delay 10s...
+[1]Viona       |05:54:25 | 20-10-2026| [11/11] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/vionaacalista/status/2112421750908610569
+[1]Viona       |05:54:25 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Viona       |05:54:27 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/vionaacalista/status/2112421663395617246
 --> [1]Viona menjalankan: Watch Anime
-[1]Viona       |05:59:29 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Viona       |05:59:29 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Viona       |05:59:33 | 19-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Viona       |05:59:42 | 19-10-2026| watch oshi-captains-hat: 7% (6.77/92.00s)
-[1]Viona       |05:59:48 | 19-10-2026| watch oshi-captains-hat: 14% (13.44/92.00s)
-[1]Viona       |05:59:56 | 19-10-2026| watch oshi-captains-hat: 21% (20.05/92.00s)
-[1]Viona       |06:00:02 | 19-10-2026| watch oshi-captains-hat: 29% (26.78/92.00s)
-[1]Viona       |06:00:10 | 19-10-2026| watch oshi-captains-hat: 35% (32.86/92.00s)
-[1]Viona       |06:00:18 | 19-10-2026| watch oshi-captains-hat: 43% (40.02/92.00s)
-[1]Viona       |06:00:24 | 19-10-2026| watch oshi-captains-hat: 50% (46.54/92.00s)
-[1]Viona       |06:00:31 | 19-10-2026| watch oshi-captains-hat: 57% (52.56/92.00s)
-[1]Viona       |06:00:38 | 19-10-2026| watch oshi-captains-hat: 63% (58.80/92.00s)
-[1]Viona       |06:00:45 | 19-10-2026| watch oshi-captains-hat: 70% (64.89/92.00s)
-[1]Viona       |06:00:52 | 19-10-2026| watch oshi-captains-hat: 77% (71.33/92.00s)
-[1]Viona       |06:00:58 | 19-10-2026| watch oshi-captains-hat: 83% (77.27/92.00s)
-[1]Viona       |06:01:06 | 19-10-2026| watch oshi-captains-hat: 90% (83.22/92.00s)
-[1]Viona       |06:01:06 | 19-10-2026| watch oshi-captains-hat: COMPLETED (83.22/92.00s)
-[1]Viona       |06:01:11 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Viona       |06:01:13 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Viona       |06:01:18 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Viona       |06:01:19 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Viona       |06:01:24 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Viona       |06:01:28 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Viona       |05:54:28 | 20-10-2026| watch: 3 video belum completed: oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Viona       |05:54:28 | 20-10-2026| watch [1/3] farming oshi-rainbow-star...
+  video baru dikenal: oshi-rainbow-star (katalog +5)
+[1]Viona       |05:54:29 | 20-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Viona       |05:54:34 | 20-10-2026| watch [2/3] farming oshi-rainbow-lighthouse...
+[1]Viona       |05:54:36 | 20-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Viona       |05:54:41 | 20-10-2026| watch [3/3] farming bakeru-ikesou-jan-mv...
+[1]Viona       |05:54:43 | 20-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Viona menjalankan: Read Article
-[1]Viona       |06:01:31 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Viona       |06:01:33 | 19-10-2026| mint eligibility: {"userId":"1679964780831076352","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@vionaacalista","status":"unsubmitted","revision":"","submittedAt":null,"reviewed
-[1]Viona       |06:01:33 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Viona       |05:54:44 | 20-10-2026| news: 27/27 artikel selesai dibaca
+[1]Viona       |05:54:45 | 20-10-2026| mint eligibility: {"userId":"1679964780831076352","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@vionaacalista","status":"unsubmitted","revision":"","submittedAt":null,"reviewed
+[1]Viona       |05:54:45 | 20-10-2026| news: semua artikel sudah dibaca
 --> [1]Viona menjalankan: Quiz Anime
-[1]Viona       |06:01:33 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Viona       |06:01:33 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Viona       |06:01:33 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Viona       |06:01:33 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Viona       |06:01:33 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Viona       |06:01:33 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Viona       |05:54:45 | 20-10-2026| quiz ep1: sudah dijawab
+[1]Viona       |05:54:45 | 20-10-2026| quiz ep2: sudah dijawab
+[1]Viona       |05:54:45 | 20-10-2026| quiz ep3: sudah dijawab
+[1]Viona       |05:54:45 | 20-10-2026| quiz ep4: sudah dijawab
+[1]Viona       |05:54:45 | 20-10-2026| quiz ep5: sudah dijawab
+[1]Viona       |05:54:45 | 20-10-2026| quiz ep6: sudah dijawab
 --> [1]Viona menjalankan: Music Missions (realtime, bisa lama!)
-[1]Viona       |06:01:37 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Viona       |06:01:38 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Viona       |06:01:38 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Viona       |06:01:38 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Viona       |05:54:47 | 20-10-2026| music: kedua misi sudah tercapai, stop
+[1]Viona       |05:54:48 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Viona       |05:54:48 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Viona       |05:54:48 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Viona menjalankan: Claim Missions
-[1]Viona       |06:01:39 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Viona       |06:01:39 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Viona       |06:01:39 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Viona       |05:54:49 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Viona       |05:54:49 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Viona       |05:54:49 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Viona menjalankan: Check Eligibility
 
 --- eligibility [1]Viona ---
-  @vionaacalista | score=1440 rank=4723
-  tasks    [###################-] 74/79
+  @vionaacalista | score=1500 rank=4705
+  tasks    [#################---] 71/82
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -88,14 +84,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Viona menjalankan: Read Manga
-[1]Viona       |06:01:47 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Viona       |05:54:53 | 20-10-2026| manga: 0/13 chapter belum completed
 --> [1]Viona menjalankan: Get Gift
-[1]Viona       |06:01:48 | 19-10-2026| gift: 0/4 belum diterima
+[1]Viona       |05:54:53 | 20-10-2026| gift: 0/4 belum diterima
 --> [1]Viona menjalankan: Setup Profile
-[1]Viona       |06:01:49 | 19-10-2026| profile: bio="https://x.com/vionaacalista" fav=oshi rewardAt=1791684689
-[1]Viona       |06:01:49 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Viona       |05:54:54 | 20-10-2026| profile: bio="https://x.com/vionaacalista" fav=oshi rewardAt=1791684689
+[1]Viona       |05:54:54 | 20-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Viona menjalankan: Bind Wallet
-[1]Viona       |06:01:51 | 19-10-2026| wallet: sudah terikat DmHna92a2q... (solana)
+[1]Viona       |05:54:54 | 20-10-2026| wallet: sudah terikat DmHna92a2q... (solana)
 
 == RINGKASAN ==
-- Viona: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Viona: daily=claimed | tasks OK 12/12 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
